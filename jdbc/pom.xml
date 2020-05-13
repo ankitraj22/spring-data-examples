@@ -27,6 +27,13 @@
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-jdbc</artifactId>
+			<version>2.1.0.DATAJDBC-542-SNAPSHOT</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-relational</artifactId>
+			<version>2.1.0.DATAJDBC-542-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
